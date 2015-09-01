@@ -3,6 +3,6 @@ mplleaflet is written and maintained by Jacob Wasserman
 
 * Marius van Niekerk (https://github.com/mariusvniekerk)
 * Filipe (https://github.com/ocefpaf)
-* mnfienen (https://github.com/mnfienen)
+* Mike Fienen (https://github.com/mnfienen)
 * Michelle Fullwood (https://github.com/michelleful)
 * Martin Journois (https://github.com/BibMartin)
